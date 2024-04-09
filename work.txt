@@ -1,0 +1,9 @@
+/-login and register screen
+/register
+/profile - profile screen with boards
+/feed - feed page with all difrent pins 
+/save/:pinid - save karenge pin ko kisi board me
+/delete/:pinid - delete karenge pin ko kisi board se
+/logout
+/edit 
+/upload
